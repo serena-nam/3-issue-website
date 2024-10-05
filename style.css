@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background: #f2f2ed;
+	font-family: Georgia, serif;
+	color: #212120;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+p {
+	line-height: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.link {
+	font-size: 30px;
+	display: inline-block;
+	margin: 20px;
+}
+
